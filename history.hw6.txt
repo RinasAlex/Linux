@@ -2,3 +2,4 @@
    1 chmod 744 script.sh
    2 ./script.sh
    3 history > history.txt
+CHANGE

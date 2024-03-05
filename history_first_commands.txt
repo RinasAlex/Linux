@@ -1,0 +1,61 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 1s
+   4 ibuiybuyb
+   5 1s
+   6 ls
+   7 ls --help
+   8 clear
+   9 ls
+  10 ls -1
+  11 ls -l
+  12 ls -a
+  13 ls 
+  14 ls -a
+  15 ls -l
+  16 ls -a
+  17 ls -la
+  18 clear
+  19 history
+  20 whoami
+  21 pwd
+  22 ls
+  23 ls --help
+  24 ls -a
+  25 ls -la
+  26 cd
+  27 cd /
+  28 pwd
+  29 ls -a
+  30 ls -al
+  31 cd /
+  32 cd bin
+  33 pwd
+  34 ls -al
+  35 cd
+  36 cd /
+  37 ls
+  38 cd home
+  39 ls -a
+  40 mkdir
+  41 mkdir user
+  42 ls
+  43 cd user
+  44 mkdir task
+  45 ls
+  46 cd task
+  47 touch file1.txt
+  48 ls
+  49 history
+  50 cd user
+  51 cd ..
+  52 ls
+  53 mkdir user2
+  54 cd user2
+  55 mkdir task2
+  56 cd task2/
+  57 touch file2.txt
+  58 ls
+  59 cd
+  60 history >> history_first_commands.txt
